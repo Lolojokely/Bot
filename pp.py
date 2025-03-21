@@ -8,7 +8,7 @@ from datetime import datetime
 from telebot import TeleBot, types
 
 # =================== Initial Configuration =================== 😎🚀💡🔥🎉
-BOT_TOKEN = "7888188008:AAHEeDIyiBaXv0XntLn9R6K9J1XRGvNt5a4"
+BOT_TOKEN = "7920663137:AAGHf8LcrfEUZgflJlxfmnq7kd6ZRvIugxA"
 ADMIN_ID = "6689922327"
 
 # Free API endpoints (all free!)
