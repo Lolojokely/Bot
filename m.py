@@ -11,7 +11,7 @@ import time
 # =======================
 # === Configuration ====
 # =======================
-BOT_TOKEN = "8125722013:AAENJ0KuQIhFgUcvT7-CGgMgsxjLu5mAEBA"           # Replace with your bot token
+BOT_TOKEN = "7861069998:AAEHx1VNfugk9sKS7tmLwiaWoDeeq0CSSp8"           # Replace with your bot token
 ADMIN_ID = 6689922327               # Replace with your Telegram numeric admin ID
 wallet_address = "YOUR_DEFAULT_WALLET_ADDRESS"  # Initial wallet address
 
